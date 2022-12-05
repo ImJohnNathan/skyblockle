@@ -1,0 +1,21 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    text-align: center;
+    text-shadow: 20cm;
+}
+body {
+    background-color: gray;
+}
+
+#guess {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-shadow: 20cm;
+    color: white;
+}
+
+#guessButton {
+    width: 30%;
+    height: 50%
+}
